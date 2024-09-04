@@ -14,5 +14,5 @@ Cada desafio aborda diferentes problemas e habilidades de programação. Abaixo,
 
 ## Tecnologias Utilizadas
 
-- **Python 3.x**: Linguagem de programação utilizada para resolver todos os desafios.
+- **Python 3.12.0**: Linguagem de programação utilizada para resolver todos os desafios.
 
